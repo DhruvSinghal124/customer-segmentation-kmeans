@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 
-df = pd.read_csv("/content/Mall_Customers (1).csv")
+df = pd.read_csv("/content/Mall_Customers.csv")
 
 df
 
