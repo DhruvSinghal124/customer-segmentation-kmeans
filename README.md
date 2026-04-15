@@ -14,3 +14,12 @@ This project performs customer segmentation using K-Means clustering based on in
 - Pandas
 - Matplotlib
 - Scikit-learn
+
+## How it works
+- Load the dataset
+- Select income and spending features
+- Apply K-Means clustering
+- Visualize customer segments
+
+## Output
+The model groups customers into different clusters based on income and spending behavior.
